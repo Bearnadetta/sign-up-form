@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+
+}
+.splash>img {
+    max-width: 50%;
+}
+.logo-container {
+    position: absolute;
+    width: 100%;
+    margin-top: 20%;
+    background-color: black;
+    opacity: 30%;
+}
